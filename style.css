@@ -1,0 +1,19 @@
+h1,
+h2 {
+    font-family: Georgia;
+    text-align: center;
+    color: magenta;
+    text-shadow: black;
+    text-decoration: mediumorchid;
+    background-color: midnightblue;
+    text-rendering: geometricPrecision;
+}
+
+#cauliflower {
+    align-items: center;
+}
+
+body {
+    text-align: center;
+    background-image: url(./images/simplysara.jpg);
+}
